@@ -19,8 +19,3 @@ O **Lista de Tarefas (To-Do List)** é um aplicativo desenvolvido para gerenciar
 - **ReactJS:** Biblioteca principal utilizada no desenvolvimento.
 - **CSS:** Para estilização do aplicativo.
 - **HTML:** Estrutura básica do aplicativo.
-
-## Estrutura do Projeto
-
-A estrutura do projeto é a seguinte:
-
